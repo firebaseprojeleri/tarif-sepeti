@@ -1,4 +1,4 @@
-#Turkcell Geleceği Yazanlar Tarif Sepeti
+# Turkcell Geleceği Yazanlar Tarif Sepeti
 
 Tarif sepeti, Geleceği Yazan Kadınlar Eğitim Etkinlikleri kapsamında oluşturulmuş Firebase veritabanı kullanan bir android uygulamasıdır.
 
