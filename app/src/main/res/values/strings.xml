@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Tarif Sepeti</string>
+
+    <string name="action_sign_in_short">Kayıt Ol</string>
+    <string name="email">email</string>
+    <string name="minimum_password">en az 6 karakterlik şifre belirleyiniz</string>
+    <string name="auth_failed">email ve şifrenizi kontrol edip tekrar deneyiniz</string>
+    <string name="change_email">emaili değiştir</string>
+    <string name="sign_out">Çıkış Yap</string>
+    <string name="change_password">şifreyi değiştir</string>
+    <string name="send_password_reset_email">şifre sıfırlama emaili gönder</string>
+    <string name="remove_user">Kullanıcıyı sil</string>
+    <string name="new_pass">Yeni şifre</string>
+    <string name="title_activity_profile">Tarif Sepeti</string>
+    <string name="title_activity_login">Oturum aç</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">şifre</string>
+    <string name="hint_name">isim</string>
+    <string name="btn_login">Giriş</string>
+    <string name="btn_link_to_register">Üye değil misiniz? Tarif Sepetine şimdi üye olun!</string>
+    <string name="btn_link_to_login">Zaten kayıtlı mısınız? Tarif Sepetine giriş yapın!</string>
+    <string name="title_activity_reset_password">Şifreyi sıfırla</string>
+    <string name="btn_forgot_password">Şifremi unuttum?</string>
+    <string name="btn_reset_password">Şifremi sıfırla</string>
+    <string name="btn_back"><![CDATA[<< Geri]]></string>
+    <string name="hint_new_email">yeni email</string>
+    <string name="btn_change">Değiştir</string>
+    <string name="btn_send">Gönder</string>
+    <string name="btn_remove">Kaldır</string>
+    <string name="btn_sign_out">Oturumu Kapat</string>
+    <string name="lbl_forgot_password">Şifremi unuttum</string>
+    <string name="forgot_password_msg">Şifrenizi sıfırlamamız için kayıt olduğunuz email adresinize ihtiyacımız var</string>
+    <string name="title_activity_signup">Oturum Aç</string>
+
+    <string name="action_settings">Ayarlar</string>
+
+    <string name="activity">TARIF SEPETI</string>
+    <string name="profile">PROFILIM</string>
+    <string name="settings">AYARLAR</string>
+    <string name="tarifEkle">TARIF EKLE</string>
+    <string name="original">ORIGINAL</string>
+
+
+    <!--activity_writ_new_blog_post.xml strings-->
+    <string name="send_blogpost">Tarifi ekle</string>
+    <string name="title">Tarif başlığı</string>
+    <string name="body">hazırlanışı</string>
+    <string name="select_image_from_device">Cihazımdan resim seç</string>
+    <string name="select_image_from_firebase">Tariflerimden resim seç</string>
+    <string name="edit_image">Resmi düzenle</string>
+    <string name="write_new_blog_post">Yeni tarif yaz</string>
+    <string name="catergory">Kategori</string>
+    <string name="select_image">Resim seç</string>
+    <string name="fire_gallery">Tarif galeri</string>
+    <string name="delete_image">Resmi sil</string>
+    <string name="searchable">Searchable</string>
+    <string name="search_in_posts">ara</string>
+    <string name="menu_search">Ara</string>
+    <string name="guillotine_button">guillotine button</string>
+    <string name="action_tarif_ekle">Tarifi ekle</string>
+    <string name="btn_link_to_sign_up">Kayıtlı değil misiniz? Tarif Sepetine kaydolun.</string>
+
+</resources>

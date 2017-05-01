@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--default colors-->
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#ae65d9</color>
+
+    <color name="colorButtonBackground">#ced9e1</color>
+    <color name="colorText">#ffffff</color>
+    <color name="colorImageView">#ced9e1</color>
+
+    <color name="colorBlack">#2c2d2e</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="display_layout_bg">#d5d8de</color>
+
+    <!--guillotine menu colors-->
+    <color name="guillotine_background">@color/colorPrimary</color>
+    <color name="guillotine_background_dark">@color/colorPrimaryDark</color>
+    <color name="selected_item_color">@color/colorAccent</color>
+
+    <!-- UCrop colors -->
+    <color tools:override="true" name="ucrop_color_toolbar_widget">@color/colorWhite</color>
+
+    <!--WriteBlogPost Activity-->
+    <color name="btnColor">#2a2a2a</color>
+    <color name="btnText">#fdfdfd</color>
+    <color name="colorPostImageView">#4CAF50</color>
+
+    <!--image_list_item.xml colors-->
+    <color name="image_list_item_background">#ffffff</color>
+    <color name="image_list_item_background_highlight">@color/colorAccent</color>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/LinearLayout.GuillotineItem">
+
+    <ImageView
+        style="@style/ImageView.GuillotineItem"
+        android:src="@drawable/ic_feed" />
+
+    <com.gelecegiyazanlar.tarifsepeti.widgets.CanaroTextView
+        android:id="@+id/category_name"
+        style="@style/TextView.GuillotineItem"
+        android:text="@string/tarifEkle" />
+
+    <com.gelecegiyazanlar.tarifsepeti.widgets.CanaroTextView
+        android:id="@+id/category_items_no"
+        style="@style/TextView.GuillotineItem"
+        android:text="  " />
+
+</LinearLayout>
